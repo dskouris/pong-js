@@ -1,0 +1,10 @@
+#canvas {
+  height: 480px;
+  width: 640px;
+  display: block;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+}
